@@ -1,0 +1,271 @@
+body{
+background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);margin: 0px;
+background-size: cover;
+background-repeat: no-repeat;
+height:2000px 
+}
+    
+
+a{color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: red
+}
+
+ 
+h1,h3{font-size: 3em}
+h1,h3{color: white}
+h1,h3{
+  height: 10px;
+  width: 280px;}
+  label{color: white}
+#s{
+  margin-top: 5px;
+  width: 50px
+}
+.a{display: flex}
+.b ul{display: flex;
+list-style: none;
+justify-content: space-around;
+justify-content: center;
+width: 100%;
+justify-content: space-around
+}
+.b{
+  width: 100%;
+}
+.e{
+  width: 100%;
+  display: flex;
+  justify-content: center
+}
+.c{display: flex;
+  justify-content: center;justify-content:space-around;} 
+
+  .center{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .f{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .g{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .flou img{
+        width: 100% ;
+        background: center; height: 600px
+          
+  }
+    .courses{
+      position: absolute;
+      top: 230px;
+      left: 550px;font-size:40px;text-shadow: 5px 2px rgb(12, 11, 11);
+    }
+    .images{display: flex;
+      justify-content: center;justify-content:space-around ; 
+    width: 500px;
+  margin: 15px;}
+  .im {margin: 15px}
+  .feedback { color: white ;}
+  .contact label{display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;}
+    .forminput{display: block;padding: 6px 12px;border: 1px solid #ccc;}
+    #textarea{
+      max-width:199.6px ;
+      max-height:82px ;
+    }
+
+.stack1{
+
+  margin-right: 15px;
+  width: 800px;
+  display: flex;
+  flex-direction: row
+
+
+}
+.stack2{
+  
+  margin-right: 15px;
+  width: 800px;
+  display: flex;
+  flex-direction: row
+}
+.stack3{
+
+  margin-right: 15px;
+  width: 800px;
+  display: flex;
+  flex-direction: row
+
+}
+
+    .view1{
+background-image: url(../res/1.png);
+width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+ }
+ .view2{
+      background-image: url(../res/2.png);
+      width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+ }
+ .view3{
+  background-image:  url(../res/3.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+}
+.view4{
+  background-image:  url(../res/4.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+}
+.view5{
+  background-image:  url(../res/5.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+}
+.view6{
+  background-image:  url(../res/6.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+ 
+}
+.view7{
+  background-image:  url(../res/7.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+}
+.view8{
+  background-image:  url(../res/8.png);
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+margin: 15px;
+
+}
+.view9{
+  width: 260px;
+height: 220px;
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+background-position: center;
+background-repeat: no-repeat;
+background-image:  url(../res/9.png);
+margin: 15px;
+
+
+}
+
+.vieww{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+ 
+  ;}
+ .view1 a button{
+   opacity: 0
+ }
+ .view2 a button{
+  opacity: 0
+}
+.view3 a button{
+  opacity: 0
+}
+.view4 a button{
+  opacity: 0
+}
+.view5 a button{
+  opacity: 0
+}
+.view6 a button{
+  opacity: 0
+}
+.view7 a button{
+  opacity: 0
+}
+.view8 a button{
+  opacity: 0
+}
+.view9 a button{
+  opacity: 0
+}
+
+
+  
+
+
